@@ -32,9 +32,9 @@ To get a local copy up and running follow these simple example steps.
 - Open **CMD** in this folder.
 - Run the following command:
 
-    ```
-    git clone https://github.com/ZikaZaki/hello-microverse.git
-    ```
+  ```
+  git clone https://github.com/ZikaZaki/hello-microverse.git
+  ```
 
 - Once finished you should see a new folder called **hello-microverse** in your current directory.
 - Enjoy your new project!
